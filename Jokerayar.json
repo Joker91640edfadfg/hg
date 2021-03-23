@@ -1,0 +1,14 @@
+{
+    "DEFAULTS": {
+        "AUTHORS": ["YEtkili"],
+        "ACTIVITY_TEXT": "Can Fidan Abone Ol",
+        "GUILD_ID": "Sunucu id",
+        "VOICE_CHANNEL": "Ses kanal id",
+        "MIN_STAFF_ROLE": "Yetkili"
+    },
+    "FILES": {
+        "WELCOME": "ses/hg.mp3",
+        "STAFF": "ses/yt.mp3"
+    },
+    "TOKEN": "Token"
+} 
